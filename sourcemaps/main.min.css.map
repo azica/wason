@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,aACI,WAAA,wBACA,MACA,OAAA","file":"../scss/main.min.css","sourcesContent":[".main__block {\r\n    background: url(img/header.jpg);\r\n    background-size: cover;\r\n    height: 100%;\r\n}"]}
